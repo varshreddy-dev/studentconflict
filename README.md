@@ -1,6 +1,5 @@
 # Student Management System
-Project description: Student Management System
-A simple web project to manage student details.
+Project description: Student Management System - Branch 1
 
 ## Features
 - Add students
