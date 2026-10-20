@@ -1,5 +1,5 @@
 # Student Management System
-
+Project description: Student Management System
 A simple web project to manage student details.
 
 ## Features
@@ -9,5 +9,5 @@ A simple web project to manage student details.
 
 ## Technologies
 - HTML
-- CSS and
+- CSS
 - JavaScript
