@@ -9,5 +9,5 @@ A simple web project to manage student details.
 
 ## Technologies
 - HTML
-- CSS
+- CSS and
 - JavaScript
